@@ -12,23 +12,30 @@ To write a program to find the maximum of a list of numbers.
 
 i)	# To find the maximum of marks using the list method sort.
 ```Python
-
-
-
+''' 
+Program to mark the maximum of marks using the list method sort
+Developed by: Panduru somu 
+RegisterNumber: 23005083
+'''
+def max_marks(marks):
+   marks.sort()
+   return marks[-1]
 ```
 
 ii)	# To find the maximum marks using the list method max().
 ```Python
-
-
-
+def max_marks(marks):
+    return max(marks)
 ```
 
 iii) # To find the maximum marks without using builtin functions.
 ```Python
-
-
-
+def max_marks(list1):
+    max = list1[0]
+    for i in range(1,len(list1)):
+        if(max<list1[i]):
+            max = list1[i]
+    return max
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
