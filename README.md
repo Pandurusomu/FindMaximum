@@ -42,5 +42,14 @@ def max_marks(list1):
 
 ## Output:
 
+![Screenshot 2023-12-21 202547](https://github.com/Pandurusomu/FindMaximum/assets/148988619/7673cd7f-7abb-4711-ad73-3d08241fd254)
+
+![Screenshot 2023-12-21 202716](https://github.com/Pandurusomu/FindMaximum/assets/148988619/57c06954-699e-4936-a036-025bd239fb82)
+
+
+![image](https://github.com/Pandurusomu/FindMaximum/assets/148988619/cb44efb3-c7c0-4f4a-a830-180646f70ae8)
+
+
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
