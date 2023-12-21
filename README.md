@@ -39,7 +39,6 @@ def max_marks(list1):
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
-
 ## Output:
 
 ![Screenshot 2023-12-21 202547](https://github.com/Pandurusomu/FindMaximum/assets/148988619/7673cd7f-7abb-4711-ad73-3d08241fd254)
